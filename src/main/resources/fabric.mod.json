@@ -1,0 +1,10 @@
+{
+    "id": "ghost_buster",
+    "name": "GhostBuster",
+    "description": "Who you gonna call?",
+    "version": "${version}",
+    "side": "universal",
+    "mixins": {
+        "common": "ghost_buster.common.json"
+    }
+}

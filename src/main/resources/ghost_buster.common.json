@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "nerdhub.ghostbuster.mixin.common",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinPhantomSpawner"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
