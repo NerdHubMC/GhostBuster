@@ -164,9 +164,9 @@ curseforge {
             changelogType = "markdown"
             changelog = getChangelogText()
 
-            relations {
-                
-            }
+            //relations {
+            //    
+            //}
 
             addArtifact javadocJar
             addArtifact sourcesJar
